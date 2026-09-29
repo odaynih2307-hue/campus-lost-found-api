@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+
+*.log
+items-export.csv
+
+.vscode/
+.idea/
+
+bin/
+dist/
+*.exe
